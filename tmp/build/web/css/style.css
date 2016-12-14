@@ -1,0 +1,31 @@
+
+
+
+.ap--active-users-label{
+    float: left;
+    width: auto;
+    background: #1ABB9C;
+    color: #fff;
+    height: 50px;
+    margin: -12px 0 -11px -15px;
+    padding: 12px;
+    font-size: 120%;
+    font-weight: 600;
+    border-radius: 4px 0 0 0;    
+}
+
+.ap--active-users-value{
+    float: left;
+    width: 50px;
+    background: #2A3F54;
+    color: #fff;
+    height: 50px;
+    margin: -12px 0 -11px 0px;
+    padding: 12px;
+    font-size: 120%;
+    font-weight: 600;
+	cursor:pointer;
+}
+.ap--active-users-value a, .ap--active-users-value a:hover{
+    color:#fff
+}
