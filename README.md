@@ -16,7 +16,6 @@ Tipo de Notificação é uma String numerica de 1 a 4 (1 - Email, 2 - SMS, 3 - X
 A dashboard para ser visualizada deve ser feita apartir da http:///WebServicesREST/
 
 No DashBoard além da visualização de diversos conteudos estatisticos relacionados com a aplicação de notificação de publicidades, e feita um conjunto de configurações tais como:
-
-Empresas - Potenciais empresas que farão a notificação das suas publicidades.
-Utilizadores - os utilizadores autenticam-se no sistema através de Facebook, Gmail, Instagram, e é necessario configurar as suas permissões e essa deve ser feita na Dashboard, o utilizador Admin principal deve ser adicionado na config, ou seja apos autenticar no sistema é obtido um id do utilizador e este ID pode ser adicionado como Admin na config.
-Configurações - todas as configurações do ficheiro config pode se alterada na Dashboard.
+ - Empresas - Potenciais empresas que farão a notificação das suas publicidades.
+ - Utilizadores - os utilizadores autenticam-se no sistema através de Facebook, Gmail, Instagram, e é necessario configurar as suas permissões e essa deve ser feita na Dashboard, o utilizador Admin principal deve ser adicionado na config, ou seja apos autenticar no sistema é obtido um id do utilizador e este ID pode ser adicionado como Admin na config.
+ - Configurações - todas as configurações do ficheiro config pode se alterada na Dashboard.
